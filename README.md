@@ -14,4 +14,4 @@ EduAngon is an enterprise institutional ERP built on **Next.js 15** and **Cloudf
 2. **Double-Entry Tuition Ledger:** Handles monthly fees, exam fees, transport charges, scholarships, and installment waivers with detailed audit logs.
 3. **Bangla Typography & UX:** Designed specifically with native Bengali font rendering (Noto Serif Bengali / SolaimanLipi) for report cards, fee slips, and ID card generation.
 
-<!-- Milestone 1/14: docs(rfc): multi-stream educational ERP architectural proposal and data isolation model (2024-02) -->
+<!-- Milestone 2/14: feat(schema): academic sessions, classes, sections, student rosters, and fee categories (2024-04) -->
