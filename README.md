@@ -16,4 +16,5 @@ EduAngon is an enterprise institutional ERP built on **Next.js 15** and **Cloudf
 
 ---
 
-<!-- Milestone 12/14: perf(d1): Cloudflare D1 edge database query optimization and index tuning (2026-06) -->
+
+<!-- Milestone 13/14: docs(architecture): finalize curated institutional ERP architecture showcase (2026-09) -->
