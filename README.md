@@ -16,5 +16,5 @@ EduAngon is an enterprise institutional ERP built on **Next.js 15** and **Cloudf
 
 ---
 
-
-<!-- Milestone 13/14: docs(architecture): finalize curated institutional ERP architecture showcase (2026-09) -->
+## 🔒 Architecture Excerpt
+- `docs/fee-ledger-architecture.sql`: Database schema demonstrating fee heads, student fee accounts, and invoice reconciliation.
